@@ -30,3 +30,7 @@ issues quickly.
 
 didn't want to rely on an external API or pay per request. running it locally also means 
 it works without internet which is useful in a data center environment
+
+## preview
+
+![app preview](previewtool.png)
